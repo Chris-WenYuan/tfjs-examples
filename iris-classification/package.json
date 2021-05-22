@@ -1,0 +1,19 @@
+{
+  "name": "iris-classification",
+  "version": "1.0.0",
+  "description": "Iris dataset classification",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.6.0",
+    "@tensorflow/tfjs-node": "^3.6.1",
+    "csv-parser": "^3.0.0"
+  }
+}
